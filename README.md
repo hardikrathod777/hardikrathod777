@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="mailto:harahrathod1432@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-harahrathod1432-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-rathodhardik0914-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To%20Work-Full%20Stack%20%26%20AI%20Roles-1D9E75?style=flat&logo=checkmarx&logoColor=white"/>
