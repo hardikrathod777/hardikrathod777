@@ -1,24 +1,171 @@
-# 💫 About Me:
-🔭 I’m currently working on: Developing dynamic, high-performance web applications using Next.js and React.js at Loglogn Software Solutions. I am also building a full-featured mobile application called FreeShorts using Flutter.<br><br>🤝 I’m looking to collaborate on: Scalable MERN Stack projects and Open Source contributions that require expertise in React.js, Node.js, and MongoDB. I am particularly interested in projects focused on performance optimization and responsive design.<br><br>💡 I’m looking for help with: Bridging the gap between Full Stack Development and Artificial Intelligence/Machine Learning. I am looking for resources on integrating AI models into web and mobile backends.<br><br>🌱 I’m currently learning: Advanced Mobile App Development with Flutter  and exploring the fundamentals of AI & ML to create smarter applications. I am also continuously mastering advanced System Design concepts.<br><br>💬 Ask me about: Full Stack Development (React.js, Node.js, Next.js) , SEO optimization , and how to implement clean, scalable codebases.<br><br>⚡ Fun fact: I once designed a scalable web application that improved performance by 80%!.
+<div align="center">
 
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=200&section=header&text=Hardik%20Rathod&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Agents%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__hardik___001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-rathod-99652b281) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harryrathod001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC2dhRoddJT7x9gnY5j7Lyvw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harahrathod1432@gmail.com) 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+MCP+Servers+%26+AI+Agents+%F0%9F%A4%96;LangGraph+%C2%B7+A2A+Protocol+%C2%B7+Multi-Agent+Systems;Next.js+%C2%B7+React.js+%C2%B7+Flutter+%C2%B7+MERN+Stack;Open+to+Full+Stack+%26+AI+Engineer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hardikrathod777&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hardikrathod777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikrathod777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hardikrathod777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Profile views + social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hardikrathod&label=Profile+Views&color=0F6E56&style=flat" alt="profile views"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/hardik-rathod-99652b281">
+    <img src="https://img.shields.io/badge/LinkedIn-Hardik%20Rathod-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:harahrathod1432@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-harahrathod1432-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Full%20Stack%20%26%20AI%20Roles-1D9E75?style=flat&logo=checkmarx&logoColor=white"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hardikrathod777&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hardikrathod777&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```typescript
+const hardik = {
+  name:       "Hardik Rathod",
+  role:       "Full Stack Developer & AI Agents Engineer",
+  company:    "LogLogN Software Solutions",
+  location:   "Surat, Gujarat, India 🇮🇳",
+
+  currentWork: [
+    "Building MCP (Model Context Protocol) servers",
+    "Designing LangGraph multi-agent systems",
+    "Implementing A2A (Agent-to-Agent) protocols",
+    "Shipping production apps with Next.js & Flutter",
+  ],
+
+  techStack: {
+    aiAgents:  ["MCP Servers", "LangGraph", "A2A Protocol", "Prompt Engineering", "Claude API"],
+    frontend:  ["Next.js", "React.js", "Flutter", "Tailwind CSS", "HTML5", "CSS3"],
+    backend:   ["Node.js", "Express.js", "MongoDB", "REST APIs", "MySQL"],
+    tools:     ["Git", "GitHub", "Postman", "Vercel", "VS Code"],
+  },
+
+  certifications: [
+    "Claude 101 — Anthropic (2026)",
+    "Claude Code in Action — Anthropic (March 2026)",
+  ],
+
+  funFact: "I build AI agents that build things so I can build more things 🤖",
+};
+```
+
+---
+
+## ⚡ What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Agents
+- Architecting **MCP server** tool pipelines
+- Building **LangGraph** subagent workflows
+- Implementing **A2A protocol** for agent-to-agent communication
+- Prompt engineering & **Claude API** integrations
+
+</td>
+<td width="50%">
+
+### 🚀 Full Stack
+- **Next.js** production web applications
+- **Flutter** mobile apps (FreeShorts)
+- **MERN** stack scalable backends
+- **SEO-optimised** frontend architectures
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🤖 AI / Agents
+<p>
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-0F6E56?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-1D9E75?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A2A%20Protocol-Multi%20Agent-5DCAA5?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20API-Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLM-7F77DD?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-Framework-F5C518?style=for-the-badge&logo=chainlink&logoColor=black"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🔧 Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikrathod&bg_color=0d1117&color=1D9E75&line=0F6E56&point=5DCAA5&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm actively building with **MCP, LangGraph, A2A Protocol** and looking for exciting **Full Stack** or **AI Engineer** roles.
+
+<br/>
+
+<a href="https://linkedin.com/in/hardik-rathod-99652b281">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:harahrathod1432@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/hardikrathod777">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"I build AI agents that build things, so I can build more things."* 🤖
+
+</div>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=100&section=footer" width="100%"/>
