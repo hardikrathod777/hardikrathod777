@@ -133,14 +133,6 @@ const hardik = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikrathod&bg_color=0d1117&color=1D9E75&line=0F6E56&point=5DCAA5&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
